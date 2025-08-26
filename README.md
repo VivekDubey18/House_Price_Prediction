@@ -36,11 +36,11 @@ This project predicts house prices based on the area using **Stochastic Gradient
 > Shows how the model’s accuracy improves over training epochs. Closer to 1 means better fit.
 
 ### 2. MSE Loss vs Epochs
-![MSE Loss](images/mse_loss.png)  
+![MSE Loss](images/Loss.png)  
 > Shows how prediction error decreases over epochs. Lower MSE is better.
 
 ### 3. Actual vs Predicted Prices
-![Actual vs Predicted](images/actual_vs_predicted.png)  
+![Actual vs Predicted](Line.png)  
 > Blue dots → Model predictions vs actual prices.  
 > Orange dashed line → Perfect prediction line. The closer the dots to this line, the better the model.
 
