@@ -46,9 +46,4 @@ This project predicts house prices based on the area using **Stochastic Gradient
 
 ---
 
-## Final Model Output
-- **Coefficient (Slope):** `<insert sgd.coef_[0]>`  
-- **Intercept:** `<insert sgd.intercept_[0]>`  
-- **Final R² Score:** `<insert r2_scores[-1]>`  
-
 ---
