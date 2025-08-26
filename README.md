@@ -32,7 +32,7 @@ This project predicts house prices based on the area using **Stochastic Gradient
 ## Graphs
 
 ### 1. R² Score vs Epochs
-![R² Score](images/r2_score.png)  
+![R² Score](R2score.png)  
 > Shows how the model’s accuracy improves over training epochs. Closer to 1 means better fit.
 
 ### 2. MSE Loss vs Epochs
